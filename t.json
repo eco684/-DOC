@@ -55,28 +55,118 @@
       "filterable": 1
      },
      {
-      "key": "csp_xpath_cjt",
-      "name": "CJT影視(XPath)",
+      "key": "csp_xpath_94sm",
+      "name": "94神马",
       "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://github.com/eco684/-DOC/raw/main/cjtys.json"
+       "api": "csp_XPath",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/94sm.json"
      },
-     {
-      "key": "csp_xpath_nfmov",
-      "name": "NFMovies(XPath)",
-      "type": 3,
-      "api": "csp_XPathNfMov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://github.com/eco684/-DOC/raw/main/nfmovie.json"
+        {
+         "key": "csp_xpath_jpys",
+         "name": "极品影视",
+         "type": 3,
+         "api": "csp_XPath",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 0,
+         "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
+        },
+        {
+         "key": "csp_xpath_age",
+         "name": "AGE动漫",
+         "type": 3,
+         "api": "csp_XPath",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 0,
+         "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/agefans.json"
+        },
+        {
+          "key": "csp_xpath_jpyszl",
+         "name": "极品直链",
+         "type": 3,
+         "api": "csp_XPathMac",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 0,
+         "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
+       },
+       {
+        "key": "csp_xpath_cjt",
+        "name": "CJT影视",
+        "type": 3,
+        "api": "csp_XPathMac",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/cjtys.json"
+       },
+       {
+        "key": "csp_xpath_nfmov",
+        "name": "NFMovies",
+        "type": 3,
+        "api": "csp_XPathNfMov",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/nfmovie.json"
+       },
+       {
+        "key": "csp_xpath_Jumi",
+        "name": "Jumi",
+        "type": 3,
+        "api": "csp_XPath",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jumi.json"
+      },
+      {
+       "key": "csp_xpath_tvci",
+       "name": "大师兄",
+       "type": 3,
+       "api": "csp_XPath",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/tvci.json"
+      },
+      {
+       "key": "csp_xpath_duboku",
+       "name": "独播库",
+       "type": 3,
+       "api": "csp_XPath",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/duboku.json"
+      },
+      {
+       "key": "csp_xpath_saohuotv",
+       "name": "骚火电影",
+       "type": 3,
+       "api": "csp_XPath",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
+      },
+      {
+       "key": "csp_xpath_dm84",
+       "name": "动漫巴士",
+       "type": 3,
+       "api": "csp_XPath",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/dm84.json"
      },
      {
       "key": "csp_xpath_980",
-      "name": "980影視(XPath)",
+      "name": "980影視",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -86,7 +176,7 @@
      },
      {
       "key": "csp_xpath_555",
-      "name": "555(XPath)",
+      "name": "555",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -95,8 +185,8 @@
       "ext": "https://github.com/eco684/-DOC/raw/main/555.json"
     },
     {
-     "key": "csp_xpath_jpys",
-     "name": "極品影視(XPath)",
+     "key": "csp_xpath_jpys_tw",
+     "name": "極品TW",
      "type": 3,
      "api": "csp_XPath",
      "searchable": 1,
@@ -105,8 +195,8 @@
      "ext": "{\"ua\":\"\",\"homeUrl\":\"https://www.jpysvip.net\",\"cateNode\":\"//ul[contains(@class,'myui-header__menu')]/li[@class='dropdown-hover']//ul/li/a[contains(@href, 'vodtype') and not(contains(@href, '26'))]\",\"cateName\":\"/text()\",\"cateId\":\"/@href\",\"cateIdR\":\"/vodtype/(\\\\d+).html\",\"cateManual\":{\"大陸\":\"13\",\"動作\":\"6\",\"愛情\":\"8\",\"科幻\":\"9\",\"動漫\":\"4\",\"劇情\":\"11\",\"台灣\":\"21\",\"香港\":\"14\",\"日本\":\"20\",\"韓國\":\"15\",\"歐美\":\"16\",\"綜藝\":\"3\"},\"homeVodNode\":\"//div[contains(@class, 'col-lg-wide-75')]//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]\",\"homeVodName\":\"/@title\",\"homeVodId\":\"/@href\",\"homeVodIdR\":\"/voddetail/(\\\\w+).html\",\"homeVodImg\":\"@data-original\",\"homeVodImgR\":\"\\\\S+(http\\\\S+)\",\"homeVodMark\":\"/span[contains(@class,'pic-text')]/text()\",\"cateUrl\":\"https://www.jpysvip.net/vodshow/{cateId}--------{catePg}---2021.html\",\"cateVodNode\":\"//ul[contains(@class,'myui-vodlist')]//li//a[contains(@class,'myui-vodlist__thumb')]\",\"cateVodName\":\"/@title\",\"cateVodId\":\"/@href\",\"cateVodIdR\":\"/voddetail/(\\\\w+).html\",\"cateVodImg\":\"@data-original\",\"cateVodImgR\":\"\\\\S+(http\\\\S+)\",\"cateVodMark\":\"/span[contains(@class,'pic-text')]/text()\",\"dtUrl\":\"https://www.jpysvip.net/voddetail/{vid}.html\",\"dtNode\":\"//div[contains(@class,'col-lg-wide-75')]\",\"dtName\":\"//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/@title\",\"dtNameR\":\"\",\"dtImg\":\"//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/img/@data-original\",\"dtImgR\":\"\\\\S+(http\\\\S+)\",\"dtCate\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '分类')]/following-sibling::*/text()\",\"dtCateR\":\"\",\"dtYear\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '年份')]/following-sibling::*/text()\",\"dtYearR\":\"\",\"dtArea\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '地区')]/following-sibling::*/text()\",\"dtAreaR\":\"\",\"dtMark\":\"\",\"dtMarkR\":\"\",\"dtActor\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()\",\"dtActorR\":\"\",\"dtDirector\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::*/text()\",\"dtDirectorR\":\"\",\"dtDesc\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '简介')]/parent::text()\",\"dtDescR\":\"\",\"dtFromNode\":\"//a[@data-toggle='tab' and contains(@href, 'playlist')]\",\"dtFromName\":\"/text()\",\"dtFromNameR\":\"\",\"dtUrlNode\":\"//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]\",\"dtUrlSubNode\":\"//li/a\",\"dtUrlId\":\"@href\",\"dtUrlIdR\":\"/vodplay/(\\\\S+).html\",\"dtUrlName\":\"/text()\",\"dtUrlNameR\":\"\",\"playUrl\":\"https://www.jpysvip.net/vodplay/{playUrl}.html\",\"playUa\":\"\",\"searchUrl\":\"https://www.jpysvip.net/index.php/ajax/suggest?mid=1&wd={wd}&limit=10\",\"scVodNode\":\"json:list\",\"scVodName\":\"name\",\"scVodId\":\"id\",\"scVodIdR\":\"\",\"scVodImg\":\"pic\",\"scVodMark\":\"\"}"
     },
     {
-    "key": "csp_xpath_Jumi",
-    "name": "劇迷TV(XPath)",
+    "key": "csp_xpath_Jumi_tw",
+    "name": "劇迷TW",
     "type": 3,
     "api": "csp_XPath",
     "searchable": 1,
@@ -115,8 +205,8 @@
     "ext": "{\"ua\":\"\",\"homeUrl\":\"https://jumi.tv\",\"cateNode\":\"//ul[contains(@class,'myui-header__menu nav-menu')]/li[@class='dropdown-hover']//ul/li/a[contains(@href, 'type') and not(contains(@href, 'label'))]\",\"cateName\":\"/text()\",\"cateId\":\"/@href\",\"cateIdR\":\"/type/(\\\\w+).html\",\"cateManual\":{\"大陸\":\"13\",\"動作\":\"6\",\"愛情\":\"8\",\"科幻\":\"9\",\"動漫\":\"4\",\"劇情\":\"11\",\"台灣\":\"22\",\"香港\":\"14\",\"日本\":\"15\",\"韓國\":\"23\",\"歐美\":\"16\",\"綜藝\":\"3\"},\"homeVodNode\":\"//div[contains(@class, 'col-lg-wide-75')]//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]\",\"homeVodName\":\"/@title\",\"homeVodId\":\"/@href\",\"homeVodIdR\":\"/vod/(\\\\s+).html\",\"homeVodImg\":\"/@data-original\",\"homeVodImgR\":\"\\\\S+(http\\\\S+)\",\"homeVodMark\":\"/span[contains(@class,'pic-text')]/text()\",\"cateUrl\":\"https://jumi.tv/show/{cateId}/page/{catePg}/year/2021.html\",\"cateVodNode\":\"//ul[contains(@class,'myui-vodlist')]//li//a[contains(@class,'myui-vodlist__thumb')]\",\"cateVodName\":\"/@title\",\"cateVodId\":\"/@href\",\"cateVodIdR\":\"/vod/(\\\\w+).html\",\"cateVodImg\":\"/@data-original\",\"cateVodImgR\":\"\\\\S+(http\\\\S+)\",\"cateVodMark\":\"/span[contains(@class,'pic-text')]/text()\",\"dtUrl\":\"https://jumi.tv/vod/{vid}.html\",\"dtNode\":\"//div[contains(@class,'col-lg-wide-75')]\']\",\"dtName\":\"//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/@title\",\"dtNameR\":\"\",\"dtImg\":\"//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/img/@data-original\",\"dtImgR\":\"\\\\S+(http\\\\S+)\",\"dtCate\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '分類')]/following-sibling::*/text()\",\"dtCateR\":\"\",\"dtYear\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '年份')]/following-sibling::*/text()\",\"dtYearR\":\"\",\"dtArea\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '地區')]/following-sibling::*/text()\",\"dtAreaR\":\"\",\"dtMark\":\"\",\"dtMarkR\":\"\",\"dtActor\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()\",\"dtActorR\":\"\",\"dtDirector\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '導演')]/following-sibling::*/text()\",\"dtDirectorR\":\"\",\"dtDesc\":\"//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '簡介')]/parent::text()\",\"dtDescR\":\"\",\"dtFromNode\":\"//a[@data-toggle='tab' and contains(@href, 'playlist')]\",\"dtFromName\":\"/text()\",\"dtFromNameR\":\"\",\"dtUrlNode\":\"//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]\",\"dtUrlSubNode\":\"//li/a\",\"dtUrlId\":\"@href\",\"dtUrlIdR\":\"/play/(\\\\S+).html\",\"dtUrlName\":\"/text()\",\"dtUrlNameR\":\"\",\"playUrl\":\"https://jumi.tv/play/{playUrl}.html\",\"playUa\":\"\",\"searchUrl\":\"https://jumi.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10\",\"scVodNode\":\"json:list\",\"scVodName\":\"name\",\"scVodId\":\"id\",\"scVodIdR\":\"\",\"scVodImg\":\"pic\",\"scVodMark\":\"\"}"
     },
     {
-    "key": "csp_xpath_tvci",
-    "name": "大師兄(XPath)",
+    "key": "csp_xpath_tvci_tw",
+    "name": "大師兄TW",
     "type": 3,
     "api": "csp_XPath",
     "searchable": 1,
