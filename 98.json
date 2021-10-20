@@ -1,5 +1,5 @@
 {
-	   "ua": "",
+     "ua": "",
      "homeUrl": "https://www.98net.com",
      "homeVodNode": "//div[contains(@class, 'flickity-viewport')]//div[contains(@class,'stui-vodlist__box')]/a[contains(@class,'stui-vodlist__thumb')]",
      "homeVodName": "/@title",
