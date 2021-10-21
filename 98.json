@@ -26,7 +26,7 @@
   "homeVodImg": "@data-original",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
   "cateUrl": "https://www.98net.com/top/{cateId}/page/{catePg}/year/2021.html",
-  "cateVodNode": "//ul[contains(@class,'stui-vodlist')]/li//a[contains(@class,'stui-vodlist__thumb')]",
+  "cateVodNode": "//ul[contains(@class,'stui-vodlist')]/li/a[contains(@class,'stui-vodlist__thumb')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "https://www.98net.com/tv/(\\w+).html/tv/(\\w+).html",
