@@ -72,7 +72,7 @@
          "searchable": 1,
          "quickSearch": 1,
          "filterable": 0,
-         "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
+         "ext": "https://github.com/eco684/-DOC/raw/main/jpys.json"
         },
         {
          "key": "csp_xpath_age",
@@ -122,7 +122,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jumi.json"
+        "ext": "https://github.com/eco684/-DOC/raw/main/jumi.json"
       },
       {
        "key": "csp_xpath_tvci",
@@ -132,7 +132,7 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 0,
-       "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/tvci.json"
+       "ext": "https://github.com/eco684/-DOC/raw/main/tvci.json"
       },
       {
        "key": "csp_xpath_duboku",
