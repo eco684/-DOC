@@ -165,7 +165,7 @@
        "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/dm84.json"
      },
      {
-      "key": "csp_xpath_980",
+      "key": "csp_xpath_98",
       "name": "980影視",
       "type": 3,
       "api": "csp_XPath",
