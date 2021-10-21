@@ -1,10 +1,6 @@
 {
   "ua": "",
   "homeUrl": "https://www.98net.com",
-  "cateNode": "//ul[contains(@class,'nav_row')]/li/a[contains(@href, '.html')]",
-  "cateName": "/text()",
-  "cateId": "/@href",
-  "cateIdR": "https://www.98net.com/tv/(\\w+).html",
   "cateManual":{
   	"大陸":"jbgcj",
   	"動作":"jbdzp",
