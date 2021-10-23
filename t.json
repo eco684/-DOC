@@ -168,7 +168,7 @@
       "key": "csp_xpath_98",
       "name": "980影視",
       "type": 3,
-      "api": "csp_XPathMac",
+      "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
