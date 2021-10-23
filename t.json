@@ -321,7 +321,7 @@
       ]
     }
   ],
-  "spider": "https://github.com/eco684/tv/raw/main/tv/custom_spider.jar",
+  "spider": "https://github.com/eco684/-DOC/raw/main/custom_spider.jar",
   "parses": [  	
     {
       "name": "影視",
