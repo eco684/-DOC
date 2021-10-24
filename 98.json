@@ -38,7 +38,7 @@
   "dtNode": "//body",                                                               
   "dtName": "//div[@class='stui-content__thumb']/a[contains(@class,'stui-vodlist__thumb')]/@title",
   "dtNameR": "",
-  "dtImg": "//div[@class='myui-content__thumb']/a[contains(@class,'stui-vodlist__thumb')]/img/@data-original",
+  "dtImg": "//div[@class='stui-content__thumb']/a[contains(@class,'stui-vodlist__thumb')]/img/@data-original",
   "dtImgR": "\\S+(http\\S+)",
   "dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')]",
   "dtFromName": "/text()",

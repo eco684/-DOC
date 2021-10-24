@@ -39,7 +39,7 @@
   "dtNode": "//body",                                                               
   "dtName": "h3[[@class='title text-fff']",
   "dtNameR": "/text()",
-  "dtImg": "//div[contains(@class,'info-img')]/div/@data-original",
+  "dtImg": "//ul[contains(@class,'myui-vodlist__bd')]/li/div/a[@class='myui-vodlist__thumb']/@data-original",
   "dtImgR": "",
   "dtDescR": "",
   "dtFromNode": "//div[@class='dropdown-box bottom']/ul[@class='item']/li/a",
