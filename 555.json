@@ -37,7 +37,7 @@
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
   "dtUrl": "https://www.555dy6.com/vodplay/{vid}.html",
   "dtNode": "//body[contains(@class,'active')]",
-  "dtName": "//div[@class='myui-player__data']/h3/a",
+  "dtName": "//ul[contains(@class,'myui-vodlist__bd')]/li/div/a[@class='myui-vodlist__thumb']/@title",
   "dtNameR": "/text()",
   "dtImg": "//ul[contains(@class,'myui-vodlist__bd')]/li/div/a[@class='myui-vodlist__thumb']/@data-original",
   "dtImgR": "",
