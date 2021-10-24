@@ -46,7 +46,7 @@
   "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]",
   "dtUrlSubNode": "//li/a",
   "dtUrlId": "@href",
-  "dtUrlIdR": "\\S+v/(\\S+).html",
+  "dtUrlIdR": "\\S+y/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://www.98net.com/play/{playUrl}.html",
