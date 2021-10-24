@@ -204,6 +204,16 @@
       "filterable": 0,
       "ext": "https://github.com/eco684/-DOC/raw/main/fantuan.json"
    },
+   {
+      "key": "csp_yysdali",
+      "name": "YYDS影視",
+      "type": 3,
+      "api": "csp_YydsAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/eco684/-DOC/raw/main//yyds.json"
+    },
     {
       "key": "csp_xpath_egg",
       "name": "蛋蛋影院(XPath)",
