@@ -1,10 +1,10 @@
 {
   "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
   "homeUrl": "https://www.555dy6.com",
-  "cateNode": "//ul[contains(@class, 'stui-header__menu')]/li/a[contains(@href, 'type')]",
+  "cateNode": "//ul[contains(@class, 'myui-header__menu')]/li/a[contains(@href, 'vodtype')]",
   "cateName": "/text()",
   "cateId": "/@href",
-  "cateIdR": "/type/(\\d+).html",
+  "cateIdR": "/vodtype/(\\w+).html",
   "cateManual":{
   	"電影":"1",
   	"動作":"84",
@@ -36,7 +36,7 @@
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
   "dtUrl": "https://www.555dy6.com/vodplay/{vid}.html",
-  "dtNode": "//body",                                                               
+  "dtNode": "//body[contains(@class,'active')]",
   "dtName": "h3[[@class='title text-fff']",
   "dtNameR": "/text()",
   "dtImg": "//ul[contains(@class,'myui-vodlist__bd')]/li/div/a[@class='myui-vodlist__thumb']/@data-original",
