@@ -42,7 +42,7 @@
   "dtImg": "",
   "dtImgR": "",
   "dtDescR": "",
-  "dtFromNode": "//div[contains(@class, 'dropdown-box')]/ul[contains(@class,'item')]/li/a",
+  "dtFromNode": "//div[contains(@class, 'dropdown-box bottom')]/ul[contains(@class,'item')]/li/a",
   "dtFromName": "/text()",
   "dtUrlNode": "//div[contains(@class, 'tab-content')]/div[contains(@class, 'tab-pane')]/ul",
   "dtUrlSubNode": "/li/a",
