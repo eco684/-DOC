@@ -1,10 +1,10 @@
 {
-  "ua": "",
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
   "homeUrl": "https://fantuan.tv",
   "cateNode": "//ul[contains(@class, 'myui-header__menu nav-menu')]/li[@class='dropdown-hover']//ul/li/a[contains(@href, 'vodtype') and not(contains(@href, 'APP'))]",
   "cateName": "/text()",
   "cateId": "/@href",
-  "cateIdR": "/type/(\\w+).html",
+  "cateIdR": "/vodtype/(\\w+).html",
   "cateManual": {},
   "homeVodNode": "//div[contains(@class, 'col-lg-wide-75')]//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]",
   "homeVodName": "/@title",

@@ -36,7 +36,7 @@
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
   "dtUrl": "https://555dy7.com/vodplay/{vid}.html",
-  "dtNode": "//div[contains(@class,'myui-panel-box')]",
+  "dtNode": "//body",                                                               
   "dtName": "//div[@class='myui-panel__head']/h3[contains(@class,'title')]",
   "dtNameR": "",
   "dtImg": "",
