@@ -168,7 +168,7 @@
       "key": "csp_xpath_98",
       "name": "980影視",
       "type": 3,
-      "api": "csp_XPathEgg",
+      "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -184,6 +184,26 @@
       "filterable": 0,
       "ext": "https://github.com/eco684/-DOC/raw/main/libvio.json"
     },
+    {
+      "key": "csp_xpath_555",
+      "name": "555",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/eco684/-DOC/raw/main/555.json"
+    },
+    {
+      "key": "csp_xpath_fantuan",
+      "name": "飯團",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/eco684/-DOC/raw/main/fantuan.json"
+   },
     {
       "key": "csp_xpath_egg",
       "name": "蛋蛋影院(XPath)",
