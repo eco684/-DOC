@@ -74,7 +74,7 @@
      },
      {
       "key": "csp_Jumi",
-      "name": "劇迷(爬蟲)",
+      "name": "劇迷(可選)",
       "type": 3,
       "api": "csp_Jumi",
       "searchable": 1,
@@ -205,7 +205,7 @@
       "key": "csp_xpath_libvio",
       "name": "libvio",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_YydsAli",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
