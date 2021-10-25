@@ -75,16 +75,6 @@
          "ext": "https://github.com/eco684/-DOC/raw/main/jpys.json"
         },
         {
-         "key": "csp_xpath_age",
-         "name": "AGE动漫",
-         "type": 3,
-         "api": "csp_XPath",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 0,
-         "ext": "https://github.com/eco684/-DOC/raw/main/agefans.json"
-        },
-        {
           "key": "csp_xpath_jpyszl",
          "name": "极品直链",
          "type": 3,
@@ -153,6 +143,16 @@
        "quickSearch": 1,
        "filterable": 0,
        "ext": "https://github.com/eco684/-DOC/raw/main/saohuotv2.json"
+      },
+      {
+       "key": "csp_xpath_age",
+       "name": "AGE动漫",
+       "type": 3,
+       "api": "csp_XPath",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "ext": "https://github.com/eco684/-DOC/raw/main/agefans.json"
       },
       {
        "key": "csp_xpath_dm84",
@@ -394,8 +394,8 @@
       "url": "https://www.administratorm.com/WMXZ.WANG/index.php?url="
     },
     {
-      "name": "極品",
-      "url": "https://jxapp.jpysvip.net/m3u8.php?url="
+      "name": "日批",
+      "url": "https://jx.ns360.cn/1080/jiexi/?url="
     },
     {
       "name": "B站",
