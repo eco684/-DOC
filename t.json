@@ -29,7 +29,7 @@
      },
      {
       "key": "csp_N0ys",
-      "name": "90影視",
+      "name": "90影視(98播播)",
        "type": 3,
        "api": "csp_N0ys",
        "searchable": 1,
@@ -81,6 +81,24 @@
       "quickSearch": 0,
       "filterable": 1
      },
+     {
+    "key": "csp_Nfx",
+    "name": "NFXHD",
+    "type": 3,
+    "api": "csp_Nfx",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+    },
+    {
+    "key": "csp_Enlienli",
+    "name": "嗯哩嗯哩",
+    "type": 3,
+    "api": "csp_Enlienli",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+   },
      {
       "key": "csp_xpath_94sm",
       "name": "94神马",
@@ -231,7 +249,7 @@
       "filterable": 0,
       "ext": "https://github.com/eco684/-DOC/raw/main/fantuan.json"
    },
-   {
+     {
       "key": "csp_yysdali",
       "name": "YYDS影視",
       "type": 3,
@@ -240,7 +258,30 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://github.com/eco684/-DOC/raw/main//yyds.json"
-    },
+     },
+     {"key": "追剧达人",
+    	"name": "追剧达人",
+    	"type": 1,"api": "http://155.248.212.90/app.php?type=%E8%BF%BD%E5%89%A7%E8%BE%BE%E4%BA%BA",playUrl": "",
+    	"searchable": 1,
+    	"filterable": 0"
+    	},
+      {"key": "饭团影院",
+       "name": "饭团影院",
+       "type": 1,"api": "http://155.248.212.90/app.php?type=%E9%A5%AD%E5%9B%A2%E5%BD%B1%E9%99%A2",playUrl": "",
+       "searchable": 1,
+       "filterable": 0"
+       },
+       {"key": "星空影视",
+       	"name": "星空影视",
+       	"type": 1,"api": "http://155.248.212.90/app.php?type=%E6%98%9F%E7%A9%BA%E5%BD%B1%E8%A7%86",playUrl": "",
+       	"searchable": 1,"filterable": 0"
+      	},
+        {"key": "HG影视",
+        	"name": "HG影视",
+        	"type": 1,"api": "http://155.248.212.90/app.php?type=HG%E5%BD%B1%E8%A7%86",playUrl": "",
+        	"searchable": 1,
+        	"filterable": 0"
+       	},
     {
       "key": "csp_xpath_egg",
       "name": "蛋蛋影院(XPath)",
