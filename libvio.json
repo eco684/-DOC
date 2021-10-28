@@ -41,7 +41,7 @@
   "dtNode": "//div[contains(@class,'stui-pannel-box')]",
   "dtName": "//div[@class='stui-content__thumb']/a[contains(@class,'pic')]/@title",
   "dtNameR": "",
-  "dtImg": "//div[@class='stui-content__thumb']/a[contains(@class,'pic')]/img/@data-original",
+  "dtImg": "//div[@class='stui-content__thumb']/a[contains(@class,'pic')]/@title",
   "dtImgR": "\\S+(http\\S+)",
   "dtDescR": "",
   "dtFromNode": "//h3[contains(@class,'icon-iconfontplay2')]",                        
