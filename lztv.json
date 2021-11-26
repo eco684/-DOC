@@ -34,7 +34,7 @@
   "dtImgR": "\\S+(http\\S+)",
   "dtCate": "",
   "dtCateR": "",
-  "dtYear": "//div[@class='dbox ']/div[@class='data']/p[@class='yac']/text()",
+  "dtYear": "//div[@class='dbox']/div[@class='data']/p[@class='yac']/text()",
   "dtYearR": "",
   "dtArea": "",
   "dtAreaR": "",
