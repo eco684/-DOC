@@ -52,6 +52,8 @@
   "dtActorR": "",
   "dtDirector": "//div[@class='stui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::*/text()",
   "dtDirectorR": "",
+  "dtDesc": "//div[@class='stui-pannel_bd']/div/span/text()",
+  "dtDescR": "\\s+\\：(\\s+)",
   "dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')]",
   "dtFromName": "/text()",
   "dtFromNameR": "",
