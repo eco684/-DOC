@@ -17,7 +17,7 @@
   "cateVodNode": "//div[@class='module-items']/div[@class='module-item']",
   "cateVodName": "/div[@class='module-item-cover']/div[@class='module-item-pic']/a/@title",
   "cateVodId": "/div[@class='module-item-cover']/div[@class='module-item-pic']/a/@href",
-  "cateVodIdR": "/voddetail/(\\w+).html",
+  "cateVodIdR": "/voddetail/(\\w+)/",
   "cateVodImg": "/div[@class='module-item-cover']/div[@class='module-item-pic']/img/@data-src",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/div[@class='module-item-text']/text()",
