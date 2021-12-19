@@ -29,6 +29,8 @@
   "dtImgR": "",
   "dtCate": "//a[@class='tag-link']/@title",
   "dtYear": "//a[@class='tag-link'][2]/text()",
+  "dtArea": "//a[@class='tag-link'][3]/text()",
+  "dtAreaR": "",
   "dtDirector": "//span[contains(text(), '导演')]/following-sibling::div/a/text()",
   "dtActor": "//span[contains(text(), '主演')]/following-sibling::div/a/text()",
   "dtDesc": "//span[contains(text(), '剧情')]/following-sibling::div/span/text()",
