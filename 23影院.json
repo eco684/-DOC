@@ -9,7 +9,7 @@
     "分类链接": "https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类名称": "電影&劇集&綜藝&動漫&紀錄片",
     "分类名称替换词": "1&2&3&4&20",
-    "筛选数据"::{
+    "筛选数据":{
             "1": [
             {
                 "key": "cateId",
