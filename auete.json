@@ -15,7 +15,7 @@
     "首页片单副标题":".hdtag&&Text",
     "首页片单链接加前缀": "https://auete.org",
     "首页片单链接加后缀": "",    
-    "分类起始页码": "1",
+    "分类起始页码": "2",
 //    "分类链接": "https://auete.org/{cateId}/{area}/index{catePg}.html",
     "分类链接": "https://auete.org/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&year={year}",    
     "分类名称": "电影&电视剧&综艺&动漫&其他&音乐",
